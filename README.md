@@ -29,12 +29,9 @@ I'm looking for Software Engineer/Software Development Engineer roles.
 
 ## My Projects
 
-Highlight some of your favorite projects or repositories. Provide a brief description, and link to the project or repository:
-
 - [Responsive Stock Search Website](https://github.com/yhwu66/Stock-Search-Frontend)
+- [Socket Programming on Cryptocurrencies Trading](https://github.com/yhwu66/Socket-Programming) 
 
 ## Connect with Me
-
-Include links to your social media profiles, personal website, or blog:
 
 - [LinkedIn](https://www.linkedin.com/in/yuhua-wu/)
