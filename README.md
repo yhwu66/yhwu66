@@ -1,23 +1,26 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Yuhua Wu 👋
 
-I'm a [your profession/role, e.g., Full Stack Developer, Data Scientist] with a passion for [your interests or technologies, e.g., web development, machine learning, open source].
+I'm a Computer Science student at University of Southern California(USC) with a passion for Software Engineering.
 
-- 🔭 I’m currently working on [a project or your job, e.g., developing a web app, working at XYZ Company]
-- 🌱 I’m currently learning [a technology or skill, e.g., React, TensorFlow, data visualization]
-- 👯 I’m looking to collaborate on [projects or topics, e.g., open source projects, web development]
-- 🤔 I’m looking for help with [a problem or technology, e.g., best practices in machine learning]
-- 💬 Ask me about [your areas of expertise or interests, e.g., web development, Python, data analysis]
-- 📫 How to reach me: [your contact information, e.g., email, LinkedIn, Twitter]
-- 😄 Pronouns: [your pronouns, e.g., he/him, she/her, they/them]
-- ⚡ Fun fact: [a fun fact about you, e.g., I love hiking, I can solve a Rubik's cube in under a minute]
+I'm looking for Software Engineer/Software Development Engineer roles.
 
 ## My Skills
 
 List your skills, such as programming languages, frameworks, or tools. You can use badges or icons to make it visually appealing. For example:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+**Programming Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+
+**Front-end/Back-end Frameworks**  
+
+
 
 ## My GitHub Stats
 
