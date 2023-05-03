@@ -31,7 +31,7 @@ I'm looking for Software Engineer/Software Development Engineer roles.
 
 Highlight some of your favorite projects or repositories. Provide a brief description, and link to the project or repository:
 
-- [Project Name](https://github.com/yourusername/project): A brief description of the project, its purpose, and main features.
+- [Responsive Stock Search Website](https://github.com/yhwu66/Stock-Search-Frontend)
 
 ## Connect with Me
 
