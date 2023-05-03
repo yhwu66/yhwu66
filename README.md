@@ -6,8 +6,6 @@ I'm looking for Software Engineer/Software Development Engineer roles.
 
 ## My Skills
 
-List your skills, such as programming languages, frameworks, or tools. You can use badges or icons to make it visually appealing. For example:
-
 **Programming Languages**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -19,14 +17,15 @@ List your skills, such as programming languages, frameworks, or tools. You can u
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
 
 **Front-end/Back-end Frameworks**  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 
-
-## My GitHub Stats
-
-Include your GitHub statistics to showcase your activity and contributions. You can use tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to generate and customize your stats:
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
 
 ## My Projects
 
@@ -38,6 +37,4 @@ Highlight some of your favorite projects or repositories. Provide a brief descri
 
 Include links to your social media profiles, personal website, or blog:
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/yuhua-wu/)
