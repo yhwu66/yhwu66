@@ -1,8 +1,10 @@
 # Hi, I'm Yuhua Wu 👋
 
-I'm a Computer Science student at University of Southern California(USC) with a passion for Software Engineering.
+I'm a M.S. in Computer Science student at University of Southern California(USC) with a passion for Software Engineering. Previously, I got my bachelor degree form Shanghai Jiao Tong University(SJTU).
 
-I'm looking for Software Engineer/Software Development Engineer roles.
+I was a Software Engineer Intern at NewsBreak in Summer 2023.
+
+I will be graduating in December 2023 and I'm looking for Software Engineer/Software Development Engineer (NG/Entry Level) roles.
 
 ## My Skills
 
